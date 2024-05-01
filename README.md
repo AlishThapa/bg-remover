@@ -16,7 +16,7 @@
 <p>1. step 1: (add the project)</p>
 
 ```
-https://github.com/AlishThapa/forex-converter.git
+https://github.com/AlishThapa/bg-remover.git
 ```
 
 <p>2. step 2: (Add packages)</p>
