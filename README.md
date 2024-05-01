@@ -5,8 +5,11 @@
 
 <h2>Project Screenshots:</h2>
 
-![Screenshot 2024-04-24 225606 1](https://github.com/AlishThapa/forex-converter/assets/104584175/9c1fc3d5-7385-41ad-9099-2f08b88b0f39)
-![Screenshot 2024-04-24 225639 1](https://github.com/AlishThapa/forex-converter/assets/104584175/561841a1-23b7-48ae-9e3e-98741419419d)
+![Screenshot_20240501-162028](https://github.com/AlishThapa/bg-remover/assets/104584175/320ddc65-f23c-4d0e-90ff-b2a815fecf76)
+![Screenshot_20240501-162019](https://github.com/AlishThapa/bg-remover/assets/104584175/fe5bf020-06f2-4b8c-aaaf-49c5ee9bc264)
+![Screenshot_20240501-162010](https://github.com/AlishThapa/bg-remover/assets/104584175/4f9b49fa-4f3c-46a0-9495-7a8cd1e1a7e5)
+![Screenshot_20240501-162002](https://github.com/AlishThapa/bg-remover/assets/104584175/a3cbc418-0217-408a-b958-27e5b65b9b91)
+
 
 <h2>🛠️ Installation Steps:</h2>
 
