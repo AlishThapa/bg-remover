@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Background Remover</h1>
 
 
-<p id="description">An app that helps users remove background from the provided image.</p>
+<p id="description">An app that helps users remove background from the provided image.</p> 
 
 <h2>Project Screenshots:</h2>
 
