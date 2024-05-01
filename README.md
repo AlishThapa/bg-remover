@@ -2,11 +2,11 @@
 
 <p id="description">An app that helps users remove background from the provided image.</p>
 
-<h1 id="header">Screenshots of this app</h1>
-![Screenshot_20240501-162028](https://github.com/AlishThapa/bg-remover/assets/104584175/320ddc65-f23c-4d0e-90ff-b2a815fecf76)
-![Screenshot_20240501-162019](https://github.com/AlishThapa/bg-remover/assets/104584175/fe5bf020-06f2-4b8c-aaaf-49c5ee9bc264)
-![Screenshot_20240501-162010](https://github.com/AlishThapa/bg-remover/assets/104584175/4f9b49fa-4f3c-46a0-9495-7a8cd1e1a7e5)
-![Screenshot_20240501-162002](https://github.com/AlishThapa/bg-remover/assets/104584175/a3cbc418-0217-408a-b958-27e5b65b9b91)
+<h2>Screenshots of this app</h2>
+![Screenshot_20240501-162028](https://github.com/AlishThapa/bg-remover/assets/104584175/30d3cecc-2bb4-4ec0-abf7-8c808eb526e1)
+![Screenshot_20240501-162019](https://github.com/AlishThapa/bg-remover/assets/104584175/3f8575e9-f919-48a0-88f9-fd587746469f)
+![Screenshot_20240501-162010](https://github.com/AlishThapa/bg-remover/assets/104584175/875b6cb8-a6de-4df1-865d-043671ddbb6d)
+![Screenshot_20240501-162002](https://github.com/AlishThapa/bg-remover/assets/104584175/abdc5d16-11a5-4357-9563-6447b0925e2f)
 
 <h2>🛠️ Installation Steps:</h2>
 
