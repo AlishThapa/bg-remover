@@ -1,16 +1,23 @@
-# bg_remover_app
+<h1 align="center" id="title">bg remover app</h1>
 
-A new Flutter project.
+<p id="description">An app that helps users remove background from the provided image.</p>
 
-## Getting Started
+<h2>🛠️ Installation Steps:</h2>
 
-This project is a starting point for a Flutter application.
+<p>1. step 1 (Add project to your IDE)</p>
 
-A few resources to get you started if this is your first Flutter project:
+```
+https://github.com/AlishThapa/bg-remover.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p>2. step 2 (get dependencies)</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+```
+
+<p>3. step 3 (run the project)</p>
+
+```
+flutter run
+```
